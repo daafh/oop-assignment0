@@ -7,3 +7,4 @@ if __name__ == "__main__":
 
     numpy_array = np.array = (number_list)
     print(numpy_array)
+    
